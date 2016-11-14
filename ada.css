@@ -1,0 +1,130 @@
+﻿* {
+	color: #FFDBAA;
+	font-family: "Segoe Print";
+}
+#nagivation {
+	background-color: #B68848;
+	overflow: hidden;
+}
+#nagivation ul {
+}
+#nagivation li {
+	font-family: "Segoe Print";
+	display: inline;
+	margin-left: 30px;
+}
+body {
+	background-color: #FFDBAA;
+}
+#paragraph {
+	background-color: #B68848;
+}
+#footer {
+	background-color: #B68848;
+	clear: both;
+	bottom: 0px;
+}
+#page {
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #DCB277;
+}
+#name {
+	color: #AA7A39;
+	text-align: center;
+	font-size: 60px;
+	margin: 100px;
+	padding-left: 30px;
+}
+#image {
+	width: 35%;
+	float: left;
+}
+#header {
+	overflow: hidden;
+}
+a:link {
+	color: #FFDBAA;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #FFDBAA;
+}
+a:hover {
+	color: white;
+	border-bottom: 2px white solid;
+}
+#welcome {
+	text-align: center;
+	color: #FFDBAA;
+	border-bottom: medium #FFDBAA dotted;
+}
+.home_par {
+	color: #FFDBAA;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	border-bottom: thin #FFDBAA solid;
+}
+.bio_par {
+	color: #FFDBAA;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+.bio_par a {
+	border-bottom: thin #FFDBAA solid;
+}
+#biopic {
+	width: 20%;
+	float: left;
+	margin-right: 10px;
+}
+.foot_h {
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+#li {
+	border: thin #FFDBAA solid;
+	padding: 3px;
+	cursor: default;
+	border-radius: 10px;
+}
+.img {
+	text-align: center;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+#Submit {
+	background: #cae285;
+	background: -webkit-gradient(linear, 0 0, 0 bottom, from(#cae285), to(#a3cd5a));
+	background: -moz-linear-gradient(#cae285, #a3cd5a);
+	background: linear-gradient(#cae285, #a3cd5a);
+	border: solid 1px #aad063;
+	border-bottom: solid 3px #799545;
+	color: #5d7731;
+	margin-left: 15px;
+	margin-bottom: 5px;
+}
+#next {
+	background: #cae285;
+	background: -webkit-gradient(linear, 0 0, 0 bottom, from(#cae285), to(#a3cd5a));
+	background: -moz-linear-gradient(#cae285, #a3cd5a);
+	background: linear-gradient(#cae285, #a3cd5a);
+	border: solid 1px #aad063;
+	border-bottom: solid 3px #799545;
+	color: #5d7731;
+	margin-left: 15px;
+	margin-bottom: 5px;
+}
+.ques {
+	color: #5d7731;
+	margin-left: 15px;
+}
+#correct {
+	background: #cae285;
+	color: #5d7731;
+}

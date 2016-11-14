@@ -1,0 +1,51 @@
+﻿.comment {
+	border: thin #FFDBAA solid;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	padding-right: 10px;
+	padding-top: 3px;
+	margin: 5px;
+	border-radius: 10px;
+}
+.home_par {
+	text-align: center;
+}
+#pages {
+	text-align: right;
+	padding-right: 5px;
+}
+#form {
+	padding-left: 10px;
+}
+#submit {
+	display: block;
+	float: right;
+	overflow: hidden;
+	color: #FFDBAA;
+	margin-right: 15px;
+	background-color: #B68848;
+	border: thin #FFDBAA solid;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#form_div {
+	overflow: hidden;
+}
+textarea {
+	width: 670px;
+}
+#page_link {
+	border: thin #FFDBAA solid;
+	border-radius: 30px;
+	padding: 1px;
+	margin: 1px;
+}
+iframe {
+	width: 420px;
+	height: 315px;
+}
+.input {
+	color: #B68848;
+	display: block;
+	margin-top: 5px;
+}
